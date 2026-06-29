@@ -1,1 +1,2 @@
-﻿Console.WriteLine ("Hello, World!");
+﻿
+new HabitsLogger.App ().Run (); 
