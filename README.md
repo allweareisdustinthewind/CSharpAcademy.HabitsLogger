@@ -57,14 +57,14 @@ The user will be asked, if the newly created database should be populated with s
 
 * Interfaces of Sqlite from Microsoft looks very similar like to interfaces of C#-class 'SqlDataReader'. It's very convenient and easy to use.
 
-* Prior i have no knowledge in parametrized sql queries. Yet i know mordate a view of single table's cell one schould redraw completes table on screen. It's not convenient.
-Nevertheless the library is good and i can recommend it to use. 
-
-# Resources Usede and i like it :)
+* Prior i have no knowledge in parametrized sql queries. Yet i know more and i like it :)
 
 * Library 'Spectre' is good for displaing menus and tables, but also is not perfect yet (or most likely i don't use it properly).
 For instance there is no possibility to shift menu or table by specific distance from left edge of console window - i can say "align my table to left/right/center" but not 
-"make offset of two spaces from left and then draw a table". Also to up
+"make offset of two spaces from left and then draw a table". Also to update a view of single table's cell one schould redraw completes table on screen. It's not convenient.
+Nevertheless the library is good and i can recommend it to use. 
+
+# Resources Used
 
 Lesson from ['C# Academy'](https://www.thecsharpacademy.com/project/12/habit-logger), advises from StackOevrflow and from other internet sites.
 The application was created completely without using of AI-junk :)
